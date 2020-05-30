@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af00f496-3caf-4e96-8cb6-8bf1355fb44e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/subadmindashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/activeusers.html" beforeDir="false" afterPath="$PROJECT_DIR$/activeusers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advert.html" beforeDir="false" afterPath="$PROJECT_DIR$/advert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allcategory.html" beforeDir="false" afterPath="$PROJECT_DIR$/allcategory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allnewslettersubcribers.html" beforeDir="false" afterPath="$PROJECT_DIR$/allnewslettersubcribers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allsubscribers.html" beforeDir="false" afterPath="$PROJECT_DIR$/allsubscribers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allusers.html" beforeDir="false" afterPath="$PROJECT_DIR$/allusers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverypayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/deliverypayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastfoodpayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/fastfoodpayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grocerypayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/grocerypayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inactiveusers.html" beforeDir="false" afterPath="$PROJECT_DIR$/inactiveusers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manufacturer.html" beforeDir="false" afterPath="$PROJECT_DIR$/manufacturer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manufacturerpayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/manufacturerpayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messages.html" beforeDir="false" afterPath="$PROJECT_DIR$/messages.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/networkingagentpayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/networkingagentpayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proservicepayout.html" beforeDir="false" afterPath="$PROJECT_DIR$/proservicepayout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review.html" beforeDir="false" afterPath="$PROJECT_DIR$/review.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,18 +68,37 @@
       <workItem from="1590226780311" duration="10205000" />
       <workItem from="1590339623708" duration="534000" />
       <workItem from="1590527130710" duration="32036000" />
-      <workItem from="1590657784457" duration="524000" />
+      <workItem from="1590657784457" duration="651000" />
+      <workItem from="1590787426132" duration="53000" />
+      <workItem from="1590836570204" duration="1009000" />
+      <workItem from="1590838297449" duration="561000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed subadmindashboard.html to index.html">
+      <created>1590658728465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590658728465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed subadmindashboard.html to index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed subadmindashboard.html to index.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590572255860">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590572255860" />
+    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1590658728188">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590658728188" />
     <state x="563" y="354" key="Github.ShareDialog" timestamp="1590657817043">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -73,6 +107,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="475" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590657826233" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590787440403">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590787440403" />
     <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1590584478264">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
