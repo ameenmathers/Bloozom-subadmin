@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="af00f496-3caf-4e96-8cb6-8bf1355fb44e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +62,9 @@
       <workItem from="1590865051638" duration="45000" />
       <workItem from="1590865142010" duration="102000" />
       <workItem from="1590865798585" duration="88000" />
+      <workItem from="1590873851665" duration="99000" />
+      <workItem from="1590874055084" duration="16000" />
+      <workItem from="1590874407868" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Changed subadmindashboard.html to index.html">
       <created>1590658728465</created>
@@ -83,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590863763436</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" UI Adjustments to Dashboard 01">
+      <created>1590873869724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590873869724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,17 +104,18 @@
     <MESSAGE value="Changed subadmindashboard.html to index.html" />
     <MESSAGE value="Made Adjustments to suit web" />
     <MESSAGE value=" UI Adjustments to Dashboard" />
-    <option name="LAST_COMMIT_MESSAGE" value=" UI Adjustments to Dashboard" />
+    <MESSAGE value=" UI Adjustments to Dashboard 01" />
+    <option name="LAST_COMMIT_MESSAGE" value=" UI Adjustments to Dashboard 01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590572255860">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590572255860" />
-    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1590863763060">
+    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1590873869379">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590863763060" />
+    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590873869379" />
     <state x="563" y="354" key="Github.ShareDialog" timestamp="1590657817043">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -112,10 +124,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="475" y="162" key="Github.UntrackedFilesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590657826233" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590838951275">
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1590873882763">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590838951275" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590873882763" />
     <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1590584478264">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
