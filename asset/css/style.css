@@ -272,11 +272,9 @@ h6 {
 
 .siddy{
     list-style: none;
-    padding: 40px;
-    width: 414px;
+    padding: 10px;
     position: absolute;
     color:white;
-    border-radius: 20px;
     background-color:  #02499B;
 
 }
@@ -403,4 +401,10 @@ h6 {
 a {
     border: none;
     border-radius: 50px
+}
+
+.dropitem{
+    padding: 0px;
+    margin-left: 50px;
+    margin-top: -15px !important;
 }
