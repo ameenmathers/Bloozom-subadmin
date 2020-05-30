@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="af00f496-3caf-4e96-8cb6-8bf1355fb44e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/asset/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/img/icon1.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/icon1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/img/icon2.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/icon2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/img/icon3.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/icon3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/img/icon4.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/icon4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/img/icon5.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/icon5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/img/icon6.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/icon6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/img/icon7.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/icon7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset/img/icon8.png" beforeDir="false" afterPath="$PROJECT_DIR$/asset/img/icon8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +57,10 @@
       <workItem from="1590838297449" duration="776000" />
       <workItem from="1590845780602" duration="1658000" />
       <workItem from="1590849864881" duration="627000" />
-      <workItem from="1590863308490" duration="262000" />
+      <workItem from="1590863308490" duration="1062000" />
+      <workItem from="1590865051638" duration="45000" />
+      <workItem from="1590865142010" duration="102000" />
+      <workItem from="1590865798585" duration="88000" />
     </task>
     <task id="LOCAL-00001" summary="Changed subadmindashboard.html to index.html">
       <created>1590658728465</created>
@@ -83,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590838946537</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" UI Adjustments to Dashboard">
+      <created>1590863763436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590863763436</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,17 +92,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed subadmindashboard.html to index.html" />
     <MESSAGE value="Made Adjustments to suit web" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Adjustments to suit web" />
+    <MESSAGE value=" UI Adjustments to Dashboard" />
+    <option name="LAST_COMMIT_MESSAGE" value=" UI Adjustments to Dashboard" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590572255860">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590572255860" />
-    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1590838946128">
+    <state x="307" y="25" key="CommitChangelistDialog2" timestamp="1590863763060">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590838946128" />
+    <state x="307" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590863763060" />
     <state x="563" y="354" key="Github.ShareDialog" timestamp="1590657817043">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
